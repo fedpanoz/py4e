@@ -1,5 +1,0 @@
-I am constructed
-So far 1
-So far 2
-I am destructed 2
-an contains 42

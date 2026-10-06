@@ -1,7 +1,0 @@
-# Default: disable directory indexes
-Options -Indexes
-
-# Enable indexes only for localhost
-<If "%{REMOTE_ADDR} == '127.0.0.1' || %{REMOTE_ADDR} == '::1'">
-    Options +Indexes
-</If>

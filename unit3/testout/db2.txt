@@ -1,3 +1,0 @@
-Tracks:
-('Thunderstruck', 20)
-('My Way', 15)
